@@ -1,17 +1,7 @@
-# Bebbanburg ModPack for Valheim
-
-## Version: 1.0.0
-
-### Description
-
-Welcome to the Bebbanburg ModPack for the Valheim game server! This modpack is designed for the Bebbanburg server, which you can join at `amp.xtwistedx.com:2465`. Please note that this server is whitelist only, and you can request access by joining our [Discord community](https://discord.gg/8UsCzQhCHY).
-
-Feel free to contribute to the development of this modpack by visiting our [GitHub repository](https://github.com/mkaulfers/bebbanburg-valheim). You can create pull requests or submit issue requests to help improve the modpack.
-
-### Dependencies
-
-This modpack includes the following dependencies for the Bebbanburg server:
-
+### V1.0.0
+Notes
+- Adds new mods and initial configuration for the modpack.
+Added Mods
 - [denikson-BepInExPack_Valheim-5.4.2202](#)
 - [Smoothbrain-StartupAccelerator-1.0.1](#)
 - [Smoothbrain-Groups-1.2.5](#)
@@ -65,5 +55,7 @@ This modpack includes the following dependencies for the Bebbanburg server:
 - [BentoG-MissingPieces-2.0.4](#)
 - [TJzilla-BepInEx_ConfigurationManager-16.1.2](#)
 - [aedenthorn_mods-AutoFuel-1.2.0](#)
-
-Enjoy your time in the Bebbanburg Valheim server! If you encounter any issues or have suggestions, please let us know on our Discord server.
+Removed Mods
+- N/A
+Updated Mods
+- N/A

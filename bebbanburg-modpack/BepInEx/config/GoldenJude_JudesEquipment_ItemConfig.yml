@@ -1,0 +1,1593 @@
+noble's armor:
+  set effect:
+    health regen modifier: 0
+    stamina regen modifier: 0
+    run stamina drain modifier: 0
+    jump stamina drain modifier: 0
+    carry weight modifier: 0
+    skill modifier:
+      skill: None
+      modifier: 0
+    damage modifiers:
+      Blunt: none
+      Slash: none
+      Pierce: none
+      Chop: none
+      Fire: none
+      Frost: none
+      Lightning: none
+      Poison: none
+      Spirit: none
+  items:
+    helmet:
+      item prefab name: ArmorNobleHelmet
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 3
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: 0
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 10
+          amount per level: 5
+        - item: LinenThread
+          amount: 15
+          amount per level: 10
+        - item: LoxPelt
+          amount: 1
+          amount per level: 1
+    chest:
+      item prefab name: ArmorNobleChest
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 10
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: -5
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 20
+          amount per level: 5
+        - item: Silver
+          amount: 5
+          amount per level: 5
+        - item: LinenThread
+          amount: 25
+          amount per level: 10
+        - item: LoxPelt
+          amount: 10
+          amount per level: 5
+    legs:
+      item prefab name: ArmorNobleLegs
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 10
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: -5
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 20
+          amount per level: 5
+        - item: Silver
+          amount: 5
+          amount per level: 5
+        - item: LinenThread
+          amount: 25
+          amount per level: 10
+        - item: LoxPelt
+          amount: 10
+          amount per level: 5
+    cape:
+      item prefab name: ArmorNobleCape
+      required for set bonus: false
+      armor: 1
+      armor per level: 1
+      enable durability: true
+      baseDurability: 1200
+      durability per level: 50
+      repairable: true
+      destroy when broken: false
+      weight: 4
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: 0
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: Resistant
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: LoxPelt
+          amount: 6
+          amount per level: 2
+        - item: LinenThread
+          amount: 10
+          amount per level: 3
+        - item: Silver
+          amount: 1
+          amount per level: 1
+barbarian's armor:
+  set effect:
+    health regen modifier: 0
+    stamina regen modifier: 0
+    run stamina drain modifier: 0
+    jump stamina drain modifier: 0
+    carry weight modifier: 0
+    skill modifier:
+      skill: Axes
+      modifier: 0
+    damage modifiers:
+      Blunt: none
+      Slash: none
+      Pierce: none
+      Chop: none
+      Fire: none
+      Frost: none
+      Lightning: none
+      Poison: none
+      Spirit: none
+  items:
+    helmet:
+      item prefab name: ArmorBarbarianBronzeHelmetJD
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 3
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: 0
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 10
+        - item: Bronze
+          amount: 5
+          amount per level: 5
+        - item: LinenThread
+          amount: 15
+          amount per level: 10
+    chest:
+      item prefab name: ArmorBarbarianBronzeChestJD
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 10
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: -5
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 20
+          amount per level: 5
+        - item: Bronze
+          amount: 10
+          amount per level: 5
+        - item: LinenThread
+          amount: 25
+          amount per level: 10
+        - item: LoxPelt
+          amount: 10
+          amount per level: 5
+    legs:
+      item prefab name: ArmorBarbarianBronzeLegsJD
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 10
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: -5
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 20
+          amount per level: 5
+        - item: Bronze
+          amount: 10
+          amount per level: 5
+        - item: LinenThread
+          amount: 25
+          amount per level: 10
+        - item: LoxPelt
+          amount: 10
+          amount per level: 5
+    cape:
+      item prefab name: ArmorBarbarianCapeJD
+      required for set bonus: false
+      armor: 1
+      armor per level: 1
+      enable durability: true
+      baseDurability: 1200
+      durability per level: 50
+      repairable: true
+      destroy when broken: false
+      weight: 4
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: 0
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: Resistant
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: LoxPelt
+          amount: 6
+          amount per level: 2
+        - item: LinenThread
+          amount: 10
+          amount per level: 3
+        - item: Silver
+          amount: 1
+          amount per level: 1
+warrior's armor:
+  set effect:
+    health regen modifier: 0
+    stamina regen modifier: 0
+    run stamina drain modifier: 0
+    jump stamina drain modifier: 0
+    carry weight modifier: 0
+    skill modifier:
+      skill: Polearms
+      modifier: 0
+    damage modifiers:
+      Blunt: none
+      Slash: none
+      Pierce: none
+      Chop: none
+      Fire: none
+      Frost: none
+      Lightning: none
+      Poison: none
+      Spirit: none
+  items:
+    helmet:
+      item prefab name: ArmorWarriorHelmet
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 3
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: 0
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 10
+        - item: Bronze
+          amount: 10
+          amount per level: 5
+        - item: LinenThread
+          amount: 15
+          amount per level: 10
+    chest:
+      item prefab name: ArmorWarriorChest
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 10
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: -5
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 20
+          amount per level: 5
+        - item: Bronze
+          amount: 15
+          amount per level: 5
+        - item: LinenThread
+          amount: 25
+          amount per level: 10
+        - item: LoxPelt
+          amount: 10
+          amount per level: 5
+    legs:
+      item prefab name: ArmorWarriorLegs
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 10
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: -5
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 20
+          amount per level: 5
+        - item: Bronze
+          amount: 10
+          amount per level: 5
+        - item: LinenThread
+          amount: 25
+          amount per level: 10
+        - item: LoxPelt
+          amount: 10
+          amount per level: 5
+plate armor:
+  set effect:
+    health regen modifier: 0
+    stamina regen modifier: 0
+    run stamina drain modifier: 0
+    jump stamina drain modifier: 0
+    carry weight modifier: 0
+    skill modifier:
+      skill: Blocking
+      modifier: 0
+    damage modifiers:
+      Blunt: none
+      Slash: none
+      Pierce: none
+      Chop: none
+      Fire: none
+      Frost: none
+      Lightning: none
+      Poison: none
+      Spirit: none
+  items:
+    helmet:
+      item prefab name: ArmorPlateIronHelmetJD
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 3
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: 0
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 10
+        - item: Iron
+          amount: 10
+          amount per level: 5
+        - item: LinenThread
+          amount: 15
+          amount per level: 10
+    chest:
+      item prefab name: ArmorPlateIronChestJD
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 10
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: -5
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 20
+          amount per level: 5
+        - item: Iron
+          amount: 15
+          amount per level: 5
+        - item: LinenThread
+          amount: 25
+          amount per level: 10
+        - item: LoxPelt
+          amount: 10
+          amount per level: 5
+    legs:
+      item prefab name: ArmorPlateIronLegsJD
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 10
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: -5
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 20
+          amount per level: 5
+        - item: Iron
+          amount: 10
+          amount per level: 5
+        - item: LinenThread
+          amount: 25
+          amount per level: 10
+        - item: LoxPelt
+          amount: 10
+          amount per level: 5
+    cape:
+      item prefab name: ArmorPlateCape
+      required for set bonus: false
+      armor: 1
+      armor per level: 1
+      enable durability: true
+      baseDurability: 1200
+      durability per level: 50
+      repairable: true
+      destroy when broken: false
+      weight: 4
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: 0
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: Resistant
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: LoxPelt
+          amount: 6
+          amount per level: 2
+        - item: LinenThread
+          amount: 10
+          amount per level: 3
+        - item: Silver
+          amount: 1
+          amount per level: 1
+dragonslayer's armor:
+  set effect:
+    health regen modifier: 0
+    stamina regen modifier: 0
+    run stamina drain modifier: 0
+    jump stamina drain modifier: 0
+    carry weight modifier: 0
+    skill modifier:
+      skill: Jump
+      modifier: 0
+    damage modifiers:
+      Blunt: none
+      Slash: none
+      Pierce: none
+      Chop: none
+      Fire: none
+      Frost: none
+      Lightning: none
+      Poison: none
+      Spirit: none
+  items:
+    helmet:
+      item prefab name: ArmorDragonslayerHelmet
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 3
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: 0
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 10
+        - item: DragonTear
+          amount: 10
+          amount per level: 5
+        - item: LinenThread
+          amount: 15
+          amount per level: 10
+        - item: TrophyDragonQueen
+          amount: 1
+          amount per level: 0
+    chest:
+      item prefab name: ArmorDragonslayerChest
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 10
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: -5
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 20
+          amount per level: 5
+        - item: DragonTear
+          amount: 15
+          amount per level: 5
+        - item: LinenThread
+          amount: 25
+          amount per level: 10
+        - item: LoxPelt
+          amount: 10
+          amount per level: 5
+    legs:
+      item prefab name: ArmorDragonslayerLegs
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 10
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: -5
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 20
+          amount per level: 5
+        - item: DragonTear
+          amount: 15
+          amount per level: 5
+        - item: LinenThread
+          amount: 25
+          amount per level: 10
+        - item: LoxPelt
+          amount: 10
+          amount per level: 5
+wanderer's armor:
+  set effect:
+    health regen modifier: 0
+    stamina regen modifier: 0
+    run stamina drain modifier: 0
+    jump stamina drain modifier: 0
+    carry weight modifier: 0
+    skill modifier:
+      skill: Swords
+      modifier: 0
+    damage modifiers:
+      Blunt: none
+      Slash: none
+      Pierce: none
+      Chop: none
+      Fire: none
+      Frost: none
+      Lightning: none
+      Poison: none
+      Spirit: none
+  items:
+    helmet:
+      item prefab name: ArmorWandererHelmet
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 3
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: 0
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 10
+        - item: Iron
+          amount: 10
+          amount per level: 5
+        - item: Flax
+          amount: 15
+          amount per level: 10
+        - item: LinenThread
+          amount: 15
+          amount per level: 10
+    chest:
+      item prefab name: ArmorWandererChest
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 10
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: -5
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 20
+          amount per level: 5
+        - item: Iron
+          amount: 15
+          amount per level: 5
+        - item: Flax
+          amount: 25
+          amount per level: 10
+        - item: LinenThread
+          amount: 25
+          amount per level: 10
+    legs:
+      item prefab name: ArmorWandererLegs
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 10
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: -5
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 20
+          amount per level: 5
+        - item: Iron
+          amount: 15
+          amount per level: 5
+        - item: Flax
+          amount: 25
+          amount per level: 10
+        - item: LinenThread
+          amount: 25
+          amount per level: 10
+    cape:
+      item prefab name: ArmorWandererCape
+      required for set bonus: false
+      armor: 1
+      armor per level: 1
+      enable durability: true
+      baseDurability: 1200
+      durability per level: 50
+      repairable: true
+      destroy when broken: false
+      weight: 4
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: 0
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: Resistant
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: LoxPelt
+          amount: 6
+          amount per level: 2
+        - item: Flax
+          amount: 10
+          amount per level: 5
+        - item: LinenThread
+          amount: 10
+          amount per level: 3
+        - item: Silver
+          amount: 1
+          amount per level: 1
+nomad's armor:
+  set effect:
+    health regen modifier: 0
+    stamina regen modifier: 0
+    run stamina drain modifier: 0
+    jump stamina drain modifier: 0
+    carry weight modifier: 0
+    skill modifier:
+      skill: Run
+      modifier: 0
+    damage modifiers:
+      Blunt: none
+      Slash: none
+      Pierce: none
+      Chop: none
+      Fire: none
+      Frost: none
+      Lightning: none
+      Poison: none
+      Spirit: none
+  items:
+    helmet:
+      item prefab name: ArmorBlackmetalgarbHelmet
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 3
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: 0
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 10
+          amount per level: 5
+        - item: Iron
+          amount: 10
+          amount per level: 5
+        - item: LoxPelt
+          amount: 10
+          amount per level: 5
+        - item: LinenThread
+          amount: 15
+          amount per level: 10
+    chest:
+      item prefab name: ArmorBlackmetalgarbChest
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 10
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: -5
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 20
+          amount per level: 5
+        - item: Iron
+          amount: 15
+          amount per level: 5
+        - item: LinenThread
+          amount: 25
+          amount per level: 10
+        - item: LoxPelt
+          amount: 10
+          amount per level: 5
+    legs:
+      item prefab name: ArmorBlackmetalgarbLegs
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 10
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: -5
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 20
+          amount per level: 5
+        - item: Iron
+          amount: 10
+          amount per level: 5
+        - item: LinenThread
+          amount: 25
+          amount per level: 10
+        - item: LoxPelt
+          amount: 10
+          amount per level: 5
+serpent armor:
+  set effect:
+    health regen modifier: 0
+    stamina regen modifier: 0
+    run stamina drain modifier: 0
+    jump stamina drain modifier: 0
+    carry weight modifier: 0
+    skill modifier:
+      skill: Swim
+      modifier: 0
+    damage modifiers:
+      Blunt: none
+      Slash: none
+      Pierce: none
+      Chop: none
+      Fire: none
+      Frost: none
+      Lightning: none
+      Poison: none
+      Spirit: none
+  items:
+    helmet:
+      item prefab name: ArmorSerpentHelmet
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 3
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: 0
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 10
+          amount per level: 5
+        - item: SerpentScale
+          amount: 20
+          amount per level: 5
+        - item: LinenThread
+          amount: 15
+          amount per level: 10
+        - item: TrophySerpent
+          amount: 1
+          amount per level: 0
+    chest:
+      item prefab name: ArmorSerpentChest
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 10
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: -5
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 20
+          amount per level: 5
+        - item: SerpentScale
+          amount: 25
+          amount per level: 5
+        - item: LinenThread
+          amount: 25
+          amount per level: 10
+        - item: LoxPelt
+          amount: 10
+          amount per level: 5
+    legs:
+      item prefab name: ArmorSerpentLegs
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 10
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: -5
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 20
+          amount per level: 5
+        - item: SerpentScale
+          amount: 25
+          amount per level: 5
+        - item: LinenThread
+          amount: 25
+          amount per level: 10
+        - item: LoxPelt
+          amount: 10
+          amount per level: 5
+    cape:
+      item prefab name: ArmorSerpentCape
+      required for set bonus: false
+      armor: 1
+      armor per level: 1
+      enable durability: true
+      baseDurability: 1200
+      durability per level: 50
+      repairable: true
+      destroy when broken: false
+      weight: 4
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: 0
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: Resistant
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: LoxPelt
+          amount: 6
+          amount per level: 2
+        - item: LinenThread
+          amount: 10
+          amount per level: 3
+        - item: Silver
+          amount: 1
+          amount per level: 1
+scorched armor:
+  set effect:
+    health regen modifier: 0
+    stamina regen modifier: 0
+    run stamina drain modifier: 0
+    jump stamina drain modifier: 0
+    carry weight modifier: 0
+    skill modifier:
+      skill: Swords
+      modifier: 0
+    damage modifiers:
+      Blunt: none
+      Slash: none
+      Pierce: none
+      Chop: none
+      Fire: none
+      Frost: none
+      Lightning: none
+      Poison: none
+      Spirit: none
+  items:
+    helmet:
+      item prefab name: ArmorMistlandsHelmet
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 3
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: 0
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 10
+          amount per level: 5
+        - item: Flametal
+          amount: 15
+          amount per level: 5
+        - item: LinenThread
+          amount: 15
+          amount per level: 10
+    chest:
+      item prefab name: ArmorMistlandsChest
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 10
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: -5
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 20
+          amount per level: 5
+        - item: Flametal
+          amount: 20
+          amount per level: 5
+        - item: LinenThread
+          amount: 25
+          amount per level: 10
+        - item: LoxPelt
+          amount: 10
+          amount per level: 5
+    legs:
+      item prefab name: ArmorMistlandsLegs
+      required for set bonus: false
+      armor: 26
+      armor per level: 2
+      enable durability: true
+      baseDurability: 1000
+      durability per level: 200
+      repairable: true
+      destroy when broken: false
+      weight: 10
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: -5
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: BlackMetal
+          amount: 20
+          amount per level: 5
+        - item: Flametal
+          amount: 20
+          amount per level: 5
+        - item: LinenThread
+          amount: 25
+          amount per level: 10
+        - item: LoxPelt
+          amount: 10
+          amount per level: 5
+simple backpack:
+  set effect:
+    health regen modifier: 0
+    stamina regen modifier: 0
+    run stamina drain modifier: 0
+    jump stamina drain modifier: 0
+    carry weight modifier: 100
+    skill modifier:
+      skill: None
+      modifier: 0
+    damage modifiers:
+      Blunt: none
+      Slash: none
+      Pierce: none
+      Chop: none
+      Fire: none
+      Frost: none
+      Lightning: none
+      Poison: none
+      Spirit: none
+  items:
+    backpack:
+      item prefab name: BackpackSimple
+      required for set bonus: true
+      armor: 1
+      armor per level: 1
+      enable durability: true
+      baseDurability: 500
+      durability per level: 50
+      repairable: true
+      destroy when broken: false
+      weight: 5
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: -5
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: Wood
+          amount: 20
+          amount per level: 5
+        - item: DeerHide
+          amount: 15
+          amount per level: 5
+        - item: LeatherScraps
+          amount: 10
+          amount per level: 5
+        - item: Copper
+          amount: 2
+          amount per level: 1
+heavy backpack:
+  set effect:
+    health regen modifier: 0
+    stamina regen modifier: 0
+    run stamina drain modifier: 0
+    jump stamina drain modifier: 0
+    carry weight modifier: 200
+    skill modifier:
+      skill: None
+      modifier: 0
+    damage modifiers:
+      Blunt: none
+      Slash: none
+      Pierce: none
+      Chop: none
+      Fire: none
+      Frost: none
+      Lightning: none
+      Poison: none
+      Spirit: none
+  items:
+    backpack:
+      item prefab name: BackpackHeavy
+      required for set bonus: true
+      armor: 1
+      armor per level: 1
+      enable durability: true
+      baseDurability: 700
+      durability per level: 50
+      repairable: true
+      destroy when broken: false
+      weight: 7
+      teleportable: true
+      maximum upgrade level: 4
+      movement speed modifier: -5
+      damage modifiers:
+        Blunt: none
+        Slash: none
+        Pierce: none
+        Chop: none
+        Fire: none
+        Frost: none
+        Lightning: none
+        Poison: none
+        Spirit: none
+      recipe:
+        enabled: true
+        station: forge
+        minimum station level: 1
+        requirements:
+        - item: FineWood
+          amount: 20
+          amount per level: 5
+        - item: WolfPelt
+          amount: 10
+          amount per level: 5
+        - item: IronNails
+          amount: 25
+          amount per level: 5
+        - item: Iron
+          amount: 2
+          amount per level: 1
