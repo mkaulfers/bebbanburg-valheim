@@ -2,7 +2,7 @@
     "name": "Bebbanburg_ModPack",
     "version_number": "1.0.0",
     "website_url": "https://discord.gg/8UsCzQhCHY",
-    "description": "A modpack for the Bebbanburg server: amp.xtwistedx.com:2465. \nThis is a whitelist only server, join discord to request access. \nFeel free to contribute by going to https://github.com/mkaulfers/bebbanburg-valheim, and creating a pull request, or issue request.",
+    "description": "A modpack for the Bebbanburg server: amp.xtwistedx.com:2465. \nThis is a whitelist only server, join discord to request access. \nFeel free to contribute by going to https://github.com/mkaulfers/bebbanburg-valheim.",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2202",
         "Smoothbrain-StartupAccelerator-1.0.1",
