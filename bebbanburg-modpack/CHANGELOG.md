@@ -1,3 +1,26 @@
+### V1.1.0
+Notes
+- Removes mods that cause major lag, replaced a few others.
+Added Mods
+- [Azumatt-WardIsLove-3.4.5](#)
+Removed Mods
+- [OdinPlus-CrystalLights-1.0.14](#)
+- [OdinPlus-OdinBanners-1.1.8](#)
+- [JereKuusela-Vanity-1.8.0](#)
+- [JereKuusela-Expand_World_Prefabs-1.5.0](#)
+- [JereKuusela-Expand_World_Events-1.5.0](#)
+- [JereKuusela-Expand_World-1.56.0](#)
+- [JereKuusela-Structure_Tweaks-1.27.0](#)
+- [JereKuusela-Item_Stand_All_Items-1.20.0](#)
+- [JereKuusela-Expand_World_Spawns-1.3.0](#)
+- [JereKuusela-Expand_World_Size-1.13.0](#)
+- [JereKuusela-Expand_World_Rivers-1.9.0](#)
+- [Tyrenheim-Leylines-0.10.1](#)
+- [Tyrenheim-Skyla-0.5.3](#)
+- [Tyrenheim-TyrenheimRaven-0.14.3](#)
+Updated Mods
+- N/A
+
 ### V1.0.0
 Notes
 - Adds new mods and initial configuration for the modpack.
