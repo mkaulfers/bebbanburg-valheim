@@ -1,6 +1,6 @@
 # Bebbanburg ModPack for Valheim
 
-## Version: 1.1.0
+## Version: 1.1.1
 
 ### Description
 

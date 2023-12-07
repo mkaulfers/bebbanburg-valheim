@@ -1,3 +1,6 @@
+### V1.1.1
+- Removes unused configs. 
+
 ### V1.1.0
 Notes
 - Removes mods that cause major lag, replaced a few others.
